@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there 👋 I'm Greeshma
 
-<!--
-**greeshmachavan77-code/greeshmachavan77-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Turning ideas into code  
+🌱 Learning something new every day  
+🚀 Building things with purpose (and occasionally breaking them first)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Obsessed with coding and curious about how things work  
+🛠️ I enjoy building projects, experimenting with new tech, and solving problems  
+📚 Currently learning, growing, and probably debugging something right now  
+☕ Powered by curiosity, code, and snacks
+
+## Right now
+
+- 🚀 Building cool projects
+- 🌱 Exploring new technologies
+- 🧠 Improving my problem-solving skills
+- ✨ Trying to make things a little cleaner than yesterday
+
+## Fun fact
+
+If it can be built, I probably want to build it.
